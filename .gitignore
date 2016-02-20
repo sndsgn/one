@@ -2,3 +2,5 @@ node_modules
 client/lib
 myApp/
 .DS_store
+auth.py
+project/auth.py
